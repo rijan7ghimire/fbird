@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1580610892 source:c:\cproject\p1\main.c
+	<SDL2/SDL.h>
+	<stdio.h>
+	<time.h>
+	"main.h"
+	<SDL2/SDL_mixer.h>
+
+1577192697 source:c:\cproject\p1\key_press.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+	<string>
+	<stdbool.h>
+
+1580448181 source:c:\cproject\p1\fbird.c
+	<SDL2/SDL.h>
+	<stdio.h>
+
+1580610642 c:\cproject\p1\main.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+	<stdbool.h>
+
